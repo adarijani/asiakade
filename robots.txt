@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://adarijani.github.io/asiakadeh/sitemap.xml
+User-agent: * Disallow: Sitemap: https://adarijani.github.io/asiakade/sitemap.xml
