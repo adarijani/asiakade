@@ -495,6 +495,20 @@ ninja.data = [{
           window.open("mailto:%61%6C%69.%64%61%72%69%6A%61%6E%69.%6D%65@%67%6D%61%69%6C.%63%6F%6D", "_blank");
         },
       },{
+        id: 'social-whatsapp',
+        title: 'whatsapp',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://wa.me/989128170141", "_blank");
+        },
+      },{
+        id: 'social-youtube',
+        title: 'YouTube',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://youtube.com/@asiakade-ecotourism", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
