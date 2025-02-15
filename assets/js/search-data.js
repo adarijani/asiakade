@@ -431,8 +431,8 @@ ninja.data = [{
           window.location.href = "/asiakadeh/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-the-birth-of-asiakade",
+          title: 'The Birth of Asiakade',
           description: "",
           section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
